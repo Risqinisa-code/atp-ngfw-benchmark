@@ -1,7 +1,7 @@
 # ATP NGFW Benchmark (RFC 9411)
 
 Kode dan skrip pengujian untuk penelitian tesis:
-**"Evaluasi Empiris dan Optimisasi Dampak Advanced Threat Prevention (Threat Emulation dan Threat Extraction) terhadap Verdict Latency dan Utilisasi CPU pada Next-Generation Firewall Berbasis Metodologi RFC 9411"**
+**"Strategi Optimasi Dampak Advanced Threat Prevention terhadap Verdict Latency dan Utilisasi CPU pada Next-Generation Firewall Berbasis Metodologi RFC 9411"**
 
 > Repositori ini berisi seluruh skrip Python yang dipakai untuk membangkitkan beban, memantau perangkat, menjalankan eksperimen, serta menganalisis hasil. Tujuannya agar pengukuran dapat ditelusuri dan direplikasi.
 
